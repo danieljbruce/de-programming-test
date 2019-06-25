@@ -1,0 +1,72 @@
+•    Before closure – what did revenue look like for vendor37?
+# Vendor revenue is  174497.4830410723
+
+•    Proportion of total revenue
+# Proportion is  0.00730417637315338
+
+•    Revenue / transactions per day through vendor37
+# Revenue per day (based on March, February, January and December) with no payments in December is 1442.1279590171264
+# •    Regional usage details
+# Regional usage:
+# country_code
+# country11       514.777510
+# country119       96.858065
+# country120       25.775117
+# country124      124.705000
+# country139      356.637187
+# country141      124.705000
+# country144       96.544871
+# country16     16477.240869
+# country168      249.409999
+# country176      124.705000
+# country18       138.563423
+# country180       25.775117
+# country181      249.409999
+# country182     1223.183866
+# country185      107.227188
+# country194     2180.773248
+# country196       16.941232
+# country20      1022.203334
+# country206      650.780274
+# country207      509.267833
+# country209      124.705000
+# country211      492.335331
+# country214    16390.610407
+# country217    10587.316353
+# country228      148.095104
+# country28        96.544871
+# country30       221.563065
+# country32        96.858065
+# country33        31.336235
+# country35        96.544871
+# country45     49904.493372
+# country51      9763.318842
+# country52      2510.068124
+# country57       560.720072
+# country6         25.775117
+# country60       310.999247
+# country61       521.599748
+# country66     57643.564788
+# country71       124.705000
+# country85       406.140300
+# country9        124.705000
+
+• What is an upper bound for revenue loss following the closure?
+# An upper bound on the revenue generated based on historical trends is  87969.8055000447
+
+• Number of users expected to be affected by the closure?
+# The number of vendor 37 users is 1879
+
+• Is there a measurable revenue change as a result of the closure (on April 1)?
+# Revenue was affected by the closure since it is only 3 quarters of what it was on average!
+
+• How about regionally?
+# For every region there is certain to be change.
+# I suppose we could focus on the amount of change for regions that correspond to vendor37, but this is slightly more complex
+
+• How does the spending (ARPU) of vendor37 users after closure compare to the spending of the users of other vendors?
+# Vendor37 users spent the following proportion of total revenue before closure:  0.00819574036852952
+# Vendor37 users spent the following proportion of total revenue after closure:  0.0007908712833029413
+
+• Is there any indication that vendor37 users have migrated to new vendors?
+# Yes, but only a tenth of them since 0.0007908712833029413 is only about a tenth of 0.00819574036852952
